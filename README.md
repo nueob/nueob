@@ -1,8 +1,11 @@
 <div align="center">
-
-  ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=BoEun%20Lee&fontSize=90)
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nueob)](https://github.com/anuraghazra/github-readme-stats) -->
 
+  :wave: Hi there
+---------------------
+I'm Boeun Lee, a growing developer !
+I want to be a great web developer. :smile:
+  
 :computer: Technology Stack :sunglasses:
 ---------------------
 <img src="https://img.shields.io/badge/PHP-blueviolet?style=flat-square&logo=PHP&logoColor=white"/></a>
@@ -16,7 +19,9 @@
 <img src="https://img.shields.io/badge/DBeaver-inactive?style=flat-square&logo=PHP&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/VSCODE-blue?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 
-<!-- ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) -->
+:hatched_chick: Me 
+---------------------
+:love_letter: dpqp35@naver.com
 
 </div>
 <!--
