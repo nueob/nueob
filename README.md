@@ -8,10 +8,10 @@ I want to be a great web developer. :smile:
   
 :computer: Technology Stack :sunglasses:
 ---------------------
-<img src="https://img.shields.io/badge/PHP-blueviolet?style=flat-square&logo=PHP&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CodeIgniter-red?style=flat-square&logo=CodeIgniter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/NodeJS-yellowgreen?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ExpressJS-inactive?style=flat-square&logo=Express&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PHP-blueviolet?style=flat-square&logo=PHP&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CodeIgniter-red?style=flat-square&logo=CodeIgniter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/VueJS-brightgreen?style=flat-square&logo=Vue.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 
