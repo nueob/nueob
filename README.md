@@ -10,14 +10,13 @@ I want to be a great web developer. :smile:
 ---------------------
 <img src="https://img.shields.io/badge/NodeJS-yellowgreen?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ExpressJS-inactive?style=flat-square&logo=Express&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/PHP-blueviolet?style=flat-square&logo=PHP&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CodeIgniter-red?style=flat-square&logo=CodeIgniter&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Typescript-blue?style=flat-square&logo=Typescript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Nestjs-red?style=flat-square&logo=Nestjs&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/VueJS-brightgreen?style=flat-square&logo=Vue.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/xampp-orange?style=flat-square&logo=XAMPP&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/DBeaver-inactive?style=flat-square&logo=PHP&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/VSCODE-blue?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS-orange?style=flat-square&logo=aws&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-lightblue?style=flat-square&logo=MySQL&logoColor=white"/></a>
 
 :hatched_chick: Me 
 ---------------------
