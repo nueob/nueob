@@ -6,6 +6,12 @@
 I'm Boeun Lee, a growing developer !
 I want to be a great web developer. :smile:
   
+:link: Portfolio
+---------------------
+<a href="https://nueob.github.io"><img src="https://img.shields.io/badge/Portfolio-nueob.github.io-2563eb?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+
+**[nueob.github.io](https://nueob.github.io)** — 백엔드 개발자 포트폴리오 (경력 · 대표 프로젝트 · 기술 스택)
+
 :computer: Technology Stack :sunglasses:
 ---------------------
 <img src="https://img.shields.io/badge/NodeJS-yellowgreen?style=flat-square&logo=Node.js&logoColor=white"/></a>
